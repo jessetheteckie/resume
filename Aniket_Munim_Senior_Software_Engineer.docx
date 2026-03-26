@@ -1,0 +1,78 @@
+ANIKET MUNIM
+Senior Software Engineer | New York, NY
+aniket07.workmail@gmail.com | +1 (408) 409-9374
+LinkedIn: [your-link] | Portfolio: [your-link] | GitHub: [jessetheteckie]
+
+SUMMARY
+Senior Software Engineer with 5+ years building production-grade fintech and high-traffic consumer systems. Backend-leaning full-stack engineer specializing in Python, React, TypeScript, PostgreSQL, and AWS. Proven track record owning product outcomes end-to-end: shaping architecture, driving delivery, mentoring teams, and delivering measurable business impact (performance, reliability, compliance). Comfortable in regulated financial environments and fast-paced commerce platforms.
+
+CORE COMPETENCIES
+- Languages & Frameworks: Python, TypeScript, React, Next.js, React Native, Node.js
+- Datastores & APIs: PostgreSQL, Redis, REST, GraphQL
+- Cloud & Infra: AWS (S3, RDS, EC2), Docker, CI/CD (Jenkins), Terraform basics
+- Observability & QA: Sentry, New Relic, Jest, Cypress, React Testing Library
+- Architecture & Patterns: Microservices, Event-driven systems, Scalable system design, Money operations & compliance
+- Leadership: Technical direction, mentorship, cross-functional partnership, roadmap influence, release & incident leadership
+
+PROFESSIONAL EXPERIENCE
+
+BAANYAN SOFTWARE SERVICES — Senior Software Engineer (Client: JP Morgan Chase & American Express)
+Aug 2021 – Present | New York, NY
+JP Morgan Chase — PCR Advisor Suite (Enterprise Fintech Platform)
+- Designed and implemented scalable full‑stack systems handling millions of financial operations using Python, React, TypeScript, and PostgreSQL on AWS.
+- Standardized APIs and modular service patterns, enabling 30% faster feature delivery across 10+ revenue and financial configuration workflows.
+- Reduced data inconsistencies by 35% through integration with Java backend services and tightened PostgreSQL schemas and reconciliation processes.
+- Mentored engineers on system design, testing strategies, and code quality; raised team delivery consistency and technical capability.
+- Led cross-functional planning with Product, Design, and Operations to own product outcomes end‑to‑end and ensure operational readiness.
+
+American Express — Trip Cancel Guard (Consumer Financial Product)
+- Owned architecture through launch for a borrower-facing financial product integrated across 3+ internal teams.
+- Consolidated duplicated logic and standardized validation flows across frontend and backend, reducing duplicated code by 35%.
+- Implemented automated front-end test suites (Jest + React Testing Library) achieving 95% test coverage and reducing production defects by ~20–25%.
+- Built compliance-aware validation pipelines and documentation for policy reviewers and audit teams.
+
+WALMART — Product Detail Module (High‑Traffic Commerce)
+- Implemented micro-frontend components and backend services to support millions of daily pageviews.
+- Improved page load performance by 20% through frontend optimizations, lazy-loading, and API response tuning.
+- Drove reusable backend API patterns and CI/CD test coverage with Jest and Cypress to ensure reliability at scale.
+
+MARLABS, LLC — Software Developer (Clients: Royal Bank of Canada, Charter Communications, HBO Max)
+Aug 2021 – Aug 2024
+Royal Bank of Canada — Risk ID & File Control (Enterprise Risk Management)
+- Designed secure, compliant systems for document ingestion and money-operations workflows using React, Next.js, Python, and PostgreSQL on AWS.
+- Delivered 5+ enterprise risk-management workflows end-to-end; automated processes that reduced manual risk documentation effort by 30%.
+- Partnered with risk and operations teams to deliver features that met regulatory and security requirements.
+
+Charter Communications — Full-Stack Platform Engineering
+- Built and maintained production-grade systems; set tech direction for state management and API integration.
+- Introduced observability with Sentry and New Relic, reducing mean time to resolution by 40%.
+- Mentored engineers and standardized deployment patterns across teams.
+
+HBO MAX — Consumer Platform (Software Engineer)
+- Built cross-platform features with React Native, Python, and Redux; shipped product features ahead of schedule and improved user experience by 15%.
+- Contributed to architecture decisions for video delivery and playback to optimize reliability and performance.
+
+EDUCATION
+Pace University, Seidenberg School of CSIS — M.S., Computer Science, Dec 2020
+Thadomal Shahani Engineering College — B.E., Information Technology, May 2017
+
+SELECTED PROJECTS (concise, measurable)
+- PCR Advisor Reconciliation Engine — Led design of reconciliation microservice to sync financial operations across Java and Python services. Result: 35% fewer inconsistency incidents and faster failure detection.
+- Trip Cancel Guard Policy Engine — Architected the policy validation pipeline for borrower claims and eligibility, reducing manual review time by 40% and enabling cross-team product adoption.
+- High‑Traffic Product Detail Refactor — Redesigned data-loading and caching for product pages; improved TTFB and First Contentful Paint, increasing engagement and conversion metrics.
+
+LEADERSHIP & IMPACT
+- Promoted rapidly from Software Developer to Senior Software Engineer; consistently entrusted with high-stakes fintech clients and end-to-end ownership.
+- Regular mentor: run design reviews, technical onboarding, and brown-bag sessions to up-skill teams.
+- Process driver: proposed and rolled out organization-wide engineering process improvements across multiple client engagements, improving velocity and compliance posture.
+
+ADDITIONAL (optional to include if applicable)
+- Certifications: (e.g., AWS Certified Solutions Architect — include only if you hold it)
+- Talks / Publications / Open Source: [link] (add any public work or talks)
+- Clearance / Compliance Experience: Familiar with financial compliance reviews, policy validation workflows, and audit documentation
+
+KEYWORDS (ATS FRIENDLY)
+Python, TypeScript, React, Next.js, React Native, PostgreSQL, AWS, REST, GraphQL, Microservices, CI/CD, Docker, Jest, Cypress, Observability, Sentry, New Relic, Scalable System Design, Financial Workflows, Compliance
+
+REFERENCES
+Available upon request
